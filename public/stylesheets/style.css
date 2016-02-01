@@ -1,0 +1,8 @@
+.has-border, .welcome {
+  border: 1px solid #aaa; }
+
+.welcome {
+  color: #e63f89;
+  padding: 20px; }
+  .welcome:hover {
+    background: #aaa; }
