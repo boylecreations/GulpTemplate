@@ -1,0 +1,28 @@
+{
+  "name": "gulpsetup",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Aidan Boyle <aidan@boylecreations.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/boylecreations/GulpTemplate",
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bourbon": "^4.2.6",
+    "neat": "^1.7.2",
+    "refills": "^0.1.0",
+    "jquery": "^2.2.0"
+  }
+}
