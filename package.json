@@ -14,7 +14,7 @@
     "gulp-sass": "^2.1.1",
     "jade": "~1.11.0",
     "morgan": "~1.6.1",
-    "node-bourbon": "node_modules/node-bourbon",
+    "node-bourbon": "^4.2.3",
     "node-neat": "^1.7.2",
     "node-refills": "^1.0.1",
     "serve-favicon": "~2.3.0"
